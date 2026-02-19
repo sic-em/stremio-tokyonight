@@ -1,0 +1,18 @@
+:root {
+  --theme-bg-1: rgb(225, 226, 231);
+  --theme-bg-2: rgb(180, 181, 185);
+  --theme-fg-1: rgba(55, 96, 191, 0.9);
+  --theme-fg-2: rgb(225, 226, 231);
+
+  --theme-accent-1: rgb(152, 84, 241);
+  --theme-accent-2: rgb(88, 117, 57);
+  --theme-accent-3: rgb(140, 108, 62);
+  --theme-accent-4: rgb(46, 125, 233);
+
+  --theme-overlay: rgba(161, 166, 197, 0.2);
+  --theme-modal-bg: rgb(225, 226, 231);
+  --theme-outer-glow: 0px 0px 15px rgba(152, 84, 241, 0.22);
+
+  --theme-warning: rgb(140, 108, 62);
+  --theme-danger: rgb(245, 42, 101);
+}

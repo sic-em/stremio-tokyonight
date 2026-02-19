@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Stremio/stremio-web/development/themes/schema.json",
+  "id": "com.github.sic-em.stremio-tokyonight",
+  "name": "TokyoNight",
+  "version": "1.0.0",
+  "description": "TokyoNight theme for Stremio Web.",
+  "author": "sic-em",
+  "homepage": "https://github.com/sic-em/stremio-tokyonight",
+  "flavors": [
+    {
+      "id": "storm",
+      "name": "Storm",
+      "isDark": true,
+      "css": "flavors/storm/theme.css"
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "isDark": true,
+      "css": "flavors/night/theme.css"
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "isDark": true,
+      "css": "flavors/moon/theme.css"
+    },
+    {
+      "id": "day",
+      "name": "Day",
+      "isDark": false,
+      "css": "flavors/day/theme.css"
+    }
+  ]
+}

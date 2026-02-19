@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/Stremio/stremio-web/development/themes/schema.json",
   "id": "com.github.sic-em.stremio-tokyonight",
-  "name": "TokyoNight",
+  "name": "Tokyo Night",
   "version": "1.0.0",
-  "description": "TokyoNight theme for Stremio Web.",
+  "description": "Tokyo Night theme for Stremio Web.",
   "author": "sic-em",
   "homepage": "https://github.com/sic-em/stremio-tokyonight",
   "flavors": [
